@@ -1,6 +1,6 @@
-![Scriptextr (1)](https://user-images.githubusercontent.com/109947257/217301300-da761ccf-b36b-4e10-b408-073e46925558.png)
 
-# Aura Text
+
+# smpad
 
 Aura Text is a notepad app for Windows, completely made with Python. It offers modern look with advanced and some cool features, and I'll explain them all in a minute!
 
@@ -30,11 +30,7 @@ pip install -r requirements.txt
 
 - Can easily crunch through 100-150MB Text Files with real time translation, highlighting and searching.
 
-## Screenshots
 
-![image](https://user-images.githubusercontent.com/109947257/217451965-a8d6d744-788d-40ab-a64b-a70771dd189f.png)
-
-![image](https://user-images.githubusercontent.com/109947257/217451998-7dfda718-5454-49c4-9cc2-bad90325470d.png)
 
 
 ## To Do 
@@ -47,13 +43,4 @@ pip install -r requirements.txt
 
 That's it for right now! Will update more To Do's later... Also, i'll mark them as complete if i implemented the feature!
 
-## Get Aura Notes (vLATEST) now:
-https://github.com/rohankishore/Aura-Text/releases/tag/v1.1.0
 
-##     
-
-## Contributions
-Contributions are always welcome. You guys help me to keep this project alive. Thanks for being such great community of people! Contact me at:
-- Instagram: @jops.zuck
-- Reddit: https://www.reddit.com/user/literallyRohan
-- Discord: literallyRohan#3884
